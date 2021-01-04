@@ -7,4 +7,23 @@ h1 {
 }
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+p a {
+    font-size: 16px;
+    color: aquamarine;
+}
+section p {
+    color: gray;
+    font-size: 21px;
+}
+footer p {
+    text-align: right;
+    color: gray;
 }
